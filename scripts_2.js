@@ -12,12 +12,12 @@ function maior(a, b){
 
 let a1 = 3;
 let b1 = 7;
-console.log(maior(a1, b1));
+maior(a1, b1);
 
 let a2 = 9;
 let b2 = 4;
-console.log(maior(a2, b2));
+maior(a2, b2);
 
 let a3 = 5;
 let b3 = 5;
-console.log(maior(a3, b3));
+maior(a3, b3);

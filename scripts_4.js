@@ -6,4 +6,4 @@ function decrementa(num){
 }
 
 let num = 5;
-console.log(decrementa(num));
+decrementa(num);

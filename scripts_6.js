@@ -13,7 +13,7 @@ function lanchonete(valor){
 }
 
 let valor1 = 300;
-console.log(lanchonete(valor1));
+lanchonete(valor1);
 
 let valor2 = 150;
-console.log(lanchonete(valor2));
+lanchonete(valor2);

@@ -8,7 +8,7 @@ function ehPar(x){
 }
 
 let num1 = 25;
-console.log(ehPar(num1));
+ehPar(num1);
 
 let num2 = 16;
-console.log(ehPar(num2));
+ehPar(num2);

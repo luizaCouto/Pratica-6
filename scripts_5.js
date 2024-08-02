@@ -12,12 +12,12 @@ function tamanho(nome){
 
 let nome1 = "luiza";
 console.log("Menos de 20 caracteres.");
-console.log(tamanho(nome1));
+tamanho(nome1);
 
 let nome2 = "luizaluizaluizaluiza";
 console.log("20 caracteres.");
-console.log(tamanho(nome2));
+tamanho(nome2);
 
 let nome3 = "luizaluizaluizaluizaluiza";
 console.log("Mais de 20 caracteres.");
-console.log(tamanho(nome3));
+tamanho(nome3);
